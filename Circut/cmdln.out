@@ -1,0 +1,2 @@
+Usage: $java CircuitTracer [-s|-q] [-c|-g] [filename]
+Did not get 3 arguments

@@ -1,0 +1,3 @@
+java.lang.UnsupportedOperationException
+	at CircuitTracer.<init>(CircuitTracer.java:70)
+	at CircuitTracer.main(CircuitTracer.java:30)
